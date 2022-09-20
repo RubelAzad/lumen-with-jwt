@@ -1,4 +1,4 @@
-# lumen-with-jwt
+# Lumen with jwt (JSON Web Token)
 
 # Installation
 
