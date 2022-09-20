@@ -58,7 +58,7 @@ $ composer require tymon/jwt-auth
 
 ```
 
-[JWT auth](https://jwt-auth.readthedocs.io/en/develop/lumen-installation/#generate-secret-key)
+[JWT Documentation auth](https://jwt-auth.readthedocs.io/en/develop/lumen-installation/#generate-secret-key)
 
 
 
